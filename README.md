@@ -1,7 +1,6 @@
 # Workout --> Interactive Dashboard
 
-Turn your Strava and Garmin activities into GitHub-style contribution graphs.  
-Automatically generates a free, interactive dashboard updated daily on GitHub Pages.  
+Turn your Strava and Garmin activities into GitHub-style contribution graphs. Automatically generates a free, interactive dashboard updated daily on GitHub Pages.  
 **No coding required.**  
 
 - View the Interactive [Activity Dashboard](https://aspain.github.io/git-sweaty/)
