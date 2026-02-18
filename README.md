@@ -1,6 +1,6 @@
-# Workout --> GitHub Heatmap Dashboard
+# Workout --> Interactive Dashboard
 
-Turn your Strava and Garmin activities into GitHub-style contribution heatmaps.  
+Turn your Strava and Garmin activities into GitHub-style contribution graphs.  
 Automatically generates a free, interactive dashboard updated daily on GitHub Pages.  
 **No coding required.**  
 
