@@ -5341,5 +5341,18 @@
     "start_date_local": "2026-02-20T06:15:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 21233.7,
+    "elevation_gain": 234.3,
+    "id": "17468009136",
+    "moving_time": 5955.0,
+    "name": "Versus Half Marathon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-21T06:37:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
