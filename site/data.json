@@ -3716,6 +3716,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17498437487",
       "year": 2026
+    },
+    {
+      "date": "2026-02-26",
+      "hour": 18,
+      "name": "Padel Tourney",
+      "subtype": "Padel",
+      "type": "Padel",
+      "url": "https://www.strava.com/activities/17533714004",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-27",
+      "hour": 15,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17541758905",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6875,6 +6893,17 @@
       }
     },
     "2026": {
+      "Padel": {
+        "2026-02-26": {
+          "activity_ids": [
+            "17533714004"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 7583.0
+        }
+      },
       "Racquetball": {
         "2026-01-24": {
           "activity_ids": [
@@ -7334,6 +7363,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2870.0
+        },
+        "2026-02-27": {
+          "activity_ids": [
+            "17541758905"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2402.0
         }
       },
       "Workout": {
@@ -7349,7 +7387,7 @@
       }
     }
   },
-  "generated_at": "2026-02-26T15:20:42.269793+00:00",
+  "generated_at": "2026-02-27T15:17:01.636390+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
@@ -7359,6 +7397,10 @@
     "Hike": {
       "accent": "#d6ff6b",
       "label": "Hike"
+    },
+    "Padel": {
+      "accent": "#ffbe0b",
+      "label": "Padel"
     },
     "Pickleball": {
       "accent": "#00f5d4",
@@ -7402,7 +7444,8 @@
     "Run",
     "Walk",
     "WeightTraining",
-    "Workout"
+    "Workout",
+    "Padel"
   ],
   "units": {
     "distance": "km",
