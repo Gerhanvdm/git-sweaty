@@ -5393,5 +5393,18 @@
     "start_date_local": "2026-02-27T15:47:55Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-02-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17545252569",
+    "moving_time": 10978.0,
+    "name": "\ud83d\udd7a\ud83e\uddd1\ud83c\udffb\u200d\ud83e\uddaf\ud83d\udd7a\ud83e\uddd1\ud83c\udffb\u200d\ud83e\uddaf",
+    "raw_activity_type": "Workout",
+    "raw_type": "Dance",
+    "start_date_local": "2026-02-27T19:26:46Z",
+    "type": "Dance",
+    "year": 2026
   }
 ]

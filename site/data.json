@@ -3734,6 +3734,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17541758905",
       "year": 2026
+    },
+    {
+      "date": "2026-02-27",
+      "hour": 19,
+      "name": "\ud83d\udd7a\ud83e\uddd1\ud83c\udffb\u200d\ud83e\uddaf\ud83d\udd7a\ud83e\uddd1\ud83c\udffb\u200d\ud83e\uddaf",
+      "subtype": "Dance",
+      "type": "Dance",
+      "url": "https://www.strava.com/activities/17545252569",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6893,6 +6902,17 @@
       }
     },
     "2026": {
+      "Dance": {
+        "2026-02-27": {
+          "activity_ids": [
+            "17545252569"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 10978.0
+        }
+      },
       "Padel": {
         "2026-02-26": {
           "activity_ids": [
@@ -7387,13 +7407,17 @@
       }
     }
   },
-  "generated_at": "2026-02-27T15:17:01.636390+00:00",
+  "generated_at": "2026-02-28T15:06:08.536587+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
   "source": "strava",
   "strava_profile_url": "https://www.strava.com/athletes/29944105",
   "type_meta": {
+    "Dance": {
+      "accent": "#fb5607",
+      "label": "Dance"
+    },
     "Hike": {
       "accent": "#d6ff6b",
       "label": "Hike"
@@ -7445,6 +7469,7 @@
     "Walk",
     "WeightTraining",
     "Workout",
+    "Dance",
     "Padel"
   ],
   "units": {
