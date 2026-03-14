@@ -3797,6 +3797,42 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17698885360",
       "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 17,
+      "name": "Afternoon Walk w/ Chino",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17709264885",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 18,
+      "name": "Evening Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17710499085",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 7,
+      "name": "uRun",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17714780197",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 11,
+      "name": "Lunch Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17716722643",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7244,6 +7280,15 @@
           "distance": 4520.0,
           "elevation_gain": 44.4,
           "moving_time": 1247.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17714780197"
+          ],
+          "count": 1,
+          "distance": 5028.4,
+          "elevation_gain": 44.7,
+          "moving_time": 1348.0
         }
       },
       "Walk": {
@@ -7282,6 +7327,15 @@
           "distance": 1033.6,
           "elevation_gain": 21.2,
           "moving_time": 650.0
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            "17709264885"
+          ],
+          "count": 1,
+          "distance": 2739.7,
+          "elevation_gain": 39.7,
+          "moving_time": 1872.0
         }
       },
       "WeightTraining": {
@@ -7500,6 +7554,24 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3720.0
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            "17710499085"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3105.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17716722643"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3626.0
         }
       },
       "Workout": {
@@ -7515,7 +7587,7 @@
       }
     }
   },
-  "generated_at": "2026-03-13T15:18:30.902241+00:00",
+  "generated_at": "2026-03-14T15:09:10.919588+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",

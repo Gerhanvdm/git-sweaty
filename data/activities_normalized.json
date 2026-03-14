@@ -5484,5 +5484,57 @@
     "start_date_local": "2026-03-12T18:04:13Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 2739.7,
+    "elevation_gain": 39.7,
+    "id": "17709264885",
+    "moving_time": 1872.0,
+    "name": "Afternoon Walk w/ Chino",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-13T17:23:49Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17710499085",
+    "moving_time": 3105.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-13T18:59:56Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 5028.4,
+    "elevation_gain": 44.7,
+    "id": "17714780197",
+    "moving_time": 1348.0,
+    "name": "uRun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-14T07:08:12Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17716722643",
+    "moving_time": 3626.0,
+    "name": "Lunch Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-14T11:14:50Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
