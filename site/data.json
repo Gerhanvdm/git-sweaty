@@ -3842,6 +3842,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17744393143",
       "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 7,
+      "name": "Lekkkker run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17775053338",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 7,
+      "name": "Post run coffee & walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17775053340",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7298,6 +7316,15 @@
           "distance": 5028.4,
           "elevation_gain": 44.7,
           "moving_time": 1348.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17775053338"
+          ],
+          "count": 1,
+          "distance": 5033.5,
+          "elevation_gain": 59.4,
+          "moving_time": 1560.0
         }
       },
       "Walk": {
@@ -7345,6 +7372,15 @@
           "distance": 2739.7,
           "elevation_gain": 39.7,
           "moving_time": 1872.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17775053340"
+          ],
+          "count": 1,
+          "distance": 1014.5,
+          "elevation_gain": 21.2,
+          "moving_time": 653.0
         }
       },
       "WeightTraining": {
@@ -7605,7 +7641,7 @@
       }
     }
   },
-  "generated_at": "2026-03-18T15:30:38.859239+00:00",
+  "generated_at": "2026-03-19T15:20:01.602893+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
