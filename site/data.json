@@ -3869,6 +3869,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17781497788",
       "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 7,
+      "name": "Morning uRun",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17798292276",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7334,6 +7343,15 @@
           "distance": 5033.5,
           "elevation_gain": 59.4,
           "moving_time": 1560.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17798292276"
+          ],
+          "count": 1,
+          "distance": 5050.9,
+          "elevation_gain": 44.6,
+          "moving_time": 1352.0
         }
       },
       "Walk": {
@@ -7659,7 +7677,7 @@
       }
     }
   },
-  "generated_at": "2026-03-20T15:18:34.764286+00:00",
+  "generated_at": "2026-03-21T15:08:05.831931+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",

@@ -5588,5 +5588,18 @@
     "start_date_local": "2026-03-19T18:37:41Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 5050.9,
+    "elevation_gain": 44.6,
+    "id": "17798292276",
+    "moving_time": 1352.0,
+    "name": "Morning uRun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-21T07:07:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
