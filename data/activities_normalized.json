@@ -5640,5 +5640,57 @@
     "start_date_local": "2026-03-25T11:33:11Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17878910577",
+    "moving_time": 3677.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-27T18:04:33Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 5046.2,
+    "elevation_gain": 43.9,
+    "id": "17883855024",
+    "moving_time": 1479.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T07:07:27Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17886947299",
+    "moving_time": 5483.0,
+    "name": "Lunch Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Padel",
+    "start_date_local": "2026-03-28T11:58:58Z",
+    "type": "Padel",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17889713762",
+    "moving_time": 5616.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-28T15:25:24Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
