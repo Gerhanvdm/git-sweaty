@@ -5673,7 +5673,7 @@
     "elevation_gain": 0.0,
     "id": "17886947299",
     "moving_time": 5483.0,
-    "name": "Lunch Workout",
+    "name": "Lunch Padel",
     "raw_activity_type": "Workout",
     "raw_type": "Padel",
     "start_date_local": "2026-03-28T11:58:58Z",
@@ -5686,11 +5686,11 @@
     "elevation_gain": 0.0,
     "id": "17889713762",
     "moving_time": 5616.0,
-    "name": "Afternoon Workout",
+    "name": "Afternoon Padel",
     "raw_activity_type": "Workout",
-    "raw_type": "Workout",
+    "raw_type": "Padel",
     "start_date_local": "2026-03-28T15:25:24Z",
-    "type": "Workout",
+    "type": "Padel",
     "year": 2026
   }
 ]
