@@ -4013,6 +4013,24 @@
       "type": "Padel",
       "url": "https://www.strava.com/activities/18045174469",
       "year": 2026
+    },
+    {
+      "date": "2026-04-10",
+      "hour": 17,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18055427392",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 7,
+      "name": "uRun",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18061225708",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7542,6 +7560,15 @@
           "distance": 3516.9,
           "elevation_gain": 32.6,
           "moving_time": 1242.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18061225708"
+          ],
+          "count": 1,
+          "distance": 5049.1,
+          "elevation_gain": 46.3,
+          "moving_time": 1632.0
         }
       },
       "Walk": {
@@ -7924,6 +7951,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2485.0
+        },
+        "2026-04-10": {
+          "activity_ids": [
+            "18055427392"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3663.0
         }
       },
       "Workout": {
@@ -7939,7 +7975,7 @@
       }
     }
   },
-  "generated_at": "2026-04-10T15:20:50.181225+00:00",
+  "generated_at": "2026-04-11T15:13:04.496414+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
