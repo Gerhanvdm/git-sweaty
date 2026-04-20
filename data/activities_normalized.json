@@ -5835,5 +5835,31 @@
     "start_date_local": "2026-04-17T17:45:05Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 8719.8,
+    "elevation_gain": 102.1,
+    "id": "18180029061",
+    "moving_time": 2893.0,
+    "name": "Chillas runnas\ud83c\udfc3\ud83c\udffb\ud83e\uddbb\ud83c\udffc",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-20T06:49:11Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 1020.9,
+    "elevation_gain": 21.2,
+    "id": "18180106462",
+    "moving_time": 651.0,
+    "name": "Coffee cooldown",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-20T07:41:57Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
