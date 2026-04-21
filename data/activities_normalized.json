@@ -5861,5 +5861,44 @@
     "start_date_local": "2026-04-20T07:41:57Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18186678235",
+    "moving_time": 2728.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-20T18:25:13Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 1498.3,
+    "elevation_gain": 0.0,
+    "id": "18192732981",
+    "moving_time": 520.0,
+    "name": "Morning Run - Part 1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-21T06:48:48Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 14041.5,
+    "elevation_gain": 176.6,
+    "id": "18193263272",
+    "moving_time": 4667.0,
+    "name": "Morning Run - Part 2 (16km)",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-21T07:00:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
