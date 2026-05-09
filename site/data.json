@@ -4157,6 +4157,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18343270126",
       "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 8,
+      "name": "Stellies uRun",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18433742873",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7743,6 +7752,15 @@
           "distance": 5057.2,
           "elevation_gain": 59.9,
           "moving_time": 1907.0
+        },
+        "2026-05-09": {
+          "activity_ids": [
+            "18433742873"
+          ],
+          "count": 1,
+          "distance": 6659.1,
+          "elevation_gain": 56.5,
+          "moving_time": 1794.0
         }
       },
       "Walk": {
@@ -8221,7 +8239,7 @@
       }
     }
   },
-  "generated_at": "2026-05-08T15:35:49.594049+00:00",
+  "generated_at": "2026-05-09T15:22:21.576910+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
