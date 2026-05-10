@@ -4166,6 +4166,42 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18433742873",
       "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18451637676",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18451637712",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18451638375",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18451645629",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7755,12 +7791,16 @@
         },
         "2026-05-09": {
           "activity_ids": [
-            "18433742873"
+            "18433742873",
+            "18451637676",
+            "18451637712",
+            "18451638375",
+            "18451645629"
           ],
-          "count": 1,
-          "distance": 6659.1,
+          "count": 5,
+          "distance": 13354.899999999998,
           "elevation_gain": 56.5,
-          "moving_time": 1794.0
+          "moving_time": 3895.0
         }
       },
       "Walk": {
@@ -8239,7 +8279,7 @@
       }
     }
   },
-  "generated_at": "2026-05-09T15:22:21.576910+00:00",
+  "generated_at": "2026-05-10T15:23:42.550204+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
