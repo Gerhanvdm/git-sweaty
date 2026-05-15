@@ -4220,6 +4220,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18491812868",
       "year": 2026
+    },
+    {
+      "date": "2026-05-14",
+      "hour": 17,
+      "name": "Afternoon Workout",
+      "subtype": "Padel",
+      "type": "Padel",
+      "url": "https://www.strava.com/activities/18507132858",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7438,6 +7447,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3709.0
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "18507132858"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 6352.0
         }
       },
       "Racquetball": {
@@ -8315,7 +8333,7 @@
       }
     }
   },
-  "generated_at": "2026-05-14T15:50:49.335752+00:00",
+  "generated_at": "2026-05-15T15:44:51.583291+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
