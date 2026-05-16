@@ -6108,5 +6108,31 @@
     "start_date_local": "2026-05-14T17:46:17Z",
     "type": "Padel",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18518617684",
+    "moving_time": 2704.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-15T17:28:31Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 5037.6,
+    "elevation_gain": 44.3,
+    "id": "18524299417",
+    "moving_time": 1516.0,
+    "name": "uRun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-16T07:09:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
