@@ -57,6 +57,27 @@ class _MockResponse:
 
 
 class SyncStravaAuthTests(unittest.TestCase):
+    def test_request_json_with_retry_allows_custom_transient_codes(self) -> None:
+        responses = [
+            _MockResponse(403, {"message": "Forbidden"}),
+            _MockResponse(200, {"ok": True}),
+        ]
+        with (
+            mock.patch("sync_strava.requests.request", side_effect=responses) as request_mock,
+            mock.patch("sync_strava.time.sleep") as sleep_mock,
+        ):
+            payload = sync_strava._request_json_with_retry(
+                "POST",
+                "https://www.strava.com/oauth/token",
+                limiter=None,
+                request_kind="overall",
+                transient_status_codes={403},
+            )
+
+        self.assertEqual(payload, {"ok": True})
+        self.assertEqual(request_mock.call_count, 2)
+        sleep_mock.assert_called_once()
+
     def test_request_json_with_retry_non_transient_http_fails_fast(self) -> None:
         response = _MockResponse(400, {"message": "Bad Request"})
         with mock.patch("sync_strava.requests.request", return_value=response) as request_mock:

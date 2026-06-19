@@ -41,9 +41,11 @@ def _request_json_with_retry(
     limiter: Optional["RateLimiter"],
     request_kind: str,
     timeout: int = 30,
+    transient_status_codes: Optional[set[int]] = None,
     **kwargs,
 ) -> Any:
     last_exc: Optional[Exception] = None
+    retriable_status_codes = transient_status_codes or TRANSIENT_HTTP_STATUS_CODES
     for attempt in range(1, MAX_REQUEST_ATTEMPTS + 1):
         if limiter:
             limiter.before_request(request_kind)
@@ -53,7 +55,7 @@ def _request_json_with_retry(
                 limiter.record_request(request_kind)
                 limiter.apply_headers(resp.headers)
 
-            if resp.status_code in TRANSIENT_HTTP_STATUS_CODES and attempt < MAX_REQUEST_ATTEMPTS:
+            if resp.status_code in retriable_status_codes and attempt < MAX_REQUEST_ATTEMPTS:
                 retry_after = resp.headers.get("Retry-After")
                 if retry_after and retry_after.isdigit():
                     sleep_seconds = max(1, int(retry_after))
@@ -73,7 +75,7 @@ def _request_json_with_retry(
             if exc.response is not None:
                 status_code = exc.response.status_code
             # Non-transient HTTP errors (e.g., 400 invalid_grant) should fail fast.
-            if status_code is not None and status_code not in TRANSIENT_HTTP_STATUS_CODES:
+            if status_code is not None and status_code not in retriable_status_codes:
                 raise
             last_exc = exc
             if attempt >= MAX_REQUEST_ATTEMPTS:
@@ -304,6 +306,7 @@ def _get_access_token(config: Dict, limiter: Optional[RateLimiter]) -> str:
                 "https://www.strava.com/oauth/token",
                 limiter=limiter,
                 request_kind="overall",
+                transient_status_codes=TRANSIENT_HTTP_STATUS_CODES | {403},
                 data={
                     "client_id": client_id,
                     "client_secret": client_secret,
