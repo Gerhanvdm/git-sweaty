@@ -6472,5 +6472,31 @@
     "start_date_local": "2026-06-17T17:10:51Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18974262065",
+    "moving_time": 3822.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-18T18:28:13Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 2000.0,
+    "elevation_gain": 0.0,
+    "id": "18974425095",
+    "moving_time": 718.0,
+    "name": "Cooldown run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-18T19:32:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
