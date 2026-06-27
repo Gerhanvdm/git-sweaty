@@ -6589,5 +6589,18 @@
     "start_date_local": "2026-06-25T12:38:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 5415.7,
+    "elevation_gain": 73.0,
+    "id": "19080955607",
+    "moving_time": 1754.0,
+    "name": "Morning Shakeout",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-27T07:01:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
