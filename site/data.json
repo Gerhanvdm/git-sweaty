@@ -4571,6 +4571,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19080955607",
       "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 6,
+      "name": "Cradle Cracker",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19094612269",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8305,6 +8314,15 @@
           "distance": 5415.7,
           "elevation_gain": 73.0,
           "moving_time": 1754.0
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "19094612269"
+          ],
+          "count": 1,
+          "distance": 28819.4,
+          "elevation_gain": 412.0,
+          "moving_time": 10252.0
         }
       },
       "Walk": {
@@ -9017,7 +9035,7 @@
       }
     }
   },
-  "generated_at": "2026-06-27T15:29:52.164874+00:00",
+  "generated_at": "2026-06-28T15:30:52.365426+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
