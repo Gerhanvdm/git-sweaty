@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T15:54:15.504774+00:00",
+  "generated_at": "2026-07-01T15:53:35.344299+00:00",
   "years": {
     "2018": {
       "Run": {
@@ -3168,6 +3168,17 @@
           "moving_time": 10978.0
         }
       },
+      "HighIntensityIntervalTraining": {
+        "2026-06-30": {
+          "activity_ids": [
+            "19125987239"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2068.0
+        }
+      },
       "Hike": {
         "2026-04-27": {
           "activity_ids": [
@@ -4438,6 +4449,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1932.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "19125520763"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3088.0
         }
       },
       "Workout": {

@@ -6628,5 +6628,31 @@
     "start_date_local": "2026-06-29T16:56:58Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19125520763",
+    "moving_time": 3088.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-30T17:11:31Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19125987239",
+    "moving_time": 2068.0,
+    "name": "Evening Hybrid",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-06-30T18:06:30Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
