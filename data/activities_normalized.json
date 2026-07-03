@@ -6654,5 +6654,18 @@
     "start_date_local": "2026-06-30T18:06:30Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 4391.2,
+    "elevation_gain": 15.4,
+    "id": "19154246785",
+    "moving_time": 7072.0,
+    "name": "Evening Padel",
+    "raw_activity_type": "Workout",
+    "raw_type": "Padel",
+    "start_date_local": "2026-07-02T18:01:32Z",
+    "type": "Padel",
+    "year": 2026
   }
 ]
