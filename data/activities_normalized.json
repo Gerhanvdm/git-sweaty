@@ -6667,5 +6667,44 @@
     "start_date_local": "2026-07-02T18:01:32Z",
     "type": "Padel",
     "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19166109508",
+    "moving_time": 1936.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-03T18:52:03Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19166415948",
+    "moving_time": 1478.0,
+    "name": "Evening Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-03T19:27:11Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 16382.6,
+    "elevation_gain": 277.0,
+    "id": "19172270946",
+    "moving_time": 5489.0,
+    "name": "Versus Out & Back",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-04T08:39:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
