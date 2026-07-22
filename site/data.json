@@ -4769,6 +4769,33 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19404701018",
       "year": 2026
+    },
+    {
+      "date": "2026-07-21",
+      "hour": 17,
+      "name": "Afternoon Row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/19404812932",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-21",
+      "hour": 17,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19405038898",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-22",
+      "hour": 16,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19418821957",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8056,6 +8083,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1360.0
+        },
+        "2026-07-21": {
+          "activity_ids": [
+            "19404812932"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 505.0
         }
       },
       "Run": {
@@ -8559,6 +8595,24 @@
           "distance": 7302.4,
           "elevation_gain": 60.0,
           "moving_time": 2113.0
+        },
+        "2026-07-21": {
+          "activity_ids": [
+            "19405038898"
+          ],
+          "count": 1,
+          "distance": 3000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 736.0
+        },
+        "2026-07-22": {
+          "activity_ids": [
+            "19418821957"
+          ],
+          "count": 1,
+          "distance": 5054.7,
+          "elevation_gain": 31.0,
+          "moving_time": 1283.0
         }
       },
       "Walk": {
@@ -9415,7 +9469,7 @@
       }
     }
   },
-  "generated_at": "2026-07-21T15:35:11.701267+00:00",
+  "generated_at": "2026-07-22T15:33:41.164564+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
