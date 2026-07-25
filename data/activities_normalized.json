@@ -6966,5 +6966,18 @@
     "start_date_local": "2026-07-23T18:14:12Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 16305.2,
+    "elevation_gain": 288.0,
+    "id": "19454682173",
+    "moving_time": 5101.0,
+    "name": "Out&Back #2 w/BRKLYN RUN",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-25T08:09:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
