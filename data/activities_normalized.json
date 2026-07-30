@@ -7018,5 +7018,31 @@
     "start_date_local": "2026-07-29T16:21:53Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 10097.9,
+    "elevation_gain": 143.0,
+    "id": "19528838850",
+    "moving_time": 3167.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-30T14:12:19Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 1294.4,
+    "elevation_gain": 23.6,
+    "id": "19529153645",
+    "moving_time": 870.0,
+    "name": "Post run coffee walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-30T15:09:09Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
