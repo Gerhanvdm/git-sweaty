@@ -4886,6 +4886,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19531331711",
       "year": 2026
+    },
+    {
+      "date": "2026-08-01",
+      "hour": 11,
+      "name": "Versus Out & Back #3",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19553718559",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8730,6 +8739,15 @@
           "distance": 10097.9,
           "elevation_gain": 143.0,
           "moving_time": 3167.0
+        },
+        "2026-08-01": {
+          "activity_ids": [
+            "19553718559"
+          ],
+          "count": 1,
+          "distance": 16373.3,
+          "elevation_gain": 287.0,
+          "moving_time": 5646.0
         }
       },
       "Walk": {
@@ -9649,7 +9667,7 @@
       }
     }
   },
-  "generated_at": "2026-07-31T15:44:05.994905+00:00",
+  "generated_at": "2026-08-01T15:24:41.607623+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
