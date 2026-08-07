@@ -7116,11 +7116,24 @@
     "elevation_gain": 0.0,
     "id": "19613956736",
     "moving_time": 3356.0,
-    "name": "Afternoon Weight Training",
+    "name": "Lekker arms and erg shesh \ud83d\udcaa\ud83c\udffc\ud83d\udea3",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
     "start_date_local": "2026-08-05T16:22:13Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19629492394",
+    "moving_time": 3607.0,
+    "name": "Haaaarrrrrrde een",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-06T17:43:19Z",
+    "type": "Workout",
     "year": 2026
   }
 ]

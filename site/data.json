@@ -4926,10 +4926,19 @@
     {
       "date": "2026-08-05",
       "hour": 16,
-      "name": "Afternoon Weight Training",
+      "name": "Lekker arms and erg shesh \ud83d\udcaa\ud83c\udffc\ud83d\udea3",
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19613956736",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-06",
+      "hour": 17,
+      "name": "Haaaarrrrrrde een",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/19629492394",
       "year": 2026
     }
   ],
@@ -9735,11 +9744,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3001.0
+        },
+        "2026-08-06": {
+          "activity_ids": [
+            "19629492394"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3607.0
         }
       }
     }
   },
-  "generated_at": "2026-08-05T15:45:42.822879+00:00",
+  "generated_at": "2026-08-07T15:19:25.557274+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
