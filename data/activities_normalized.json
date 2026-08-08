@@ -7135,5 +7135,44 @@
     "start_date_local": "2026-08-06T17:43:19Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19643191847",
+    "moving_time": 2069.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-07T17:30:07Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 1902.6,
+    "elevation_gain": 0.0,
+    "id": "19644134223",
+    "moving_time": 3237.0,
+    "name": "Evening Padel",
+    "raw_activity_type": "Workout",
+    "raw_type": "Padel",
+    "start_date_local": "2026-08-07T19:01:44Z",
+    "type": "Padel",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 5032.0,
+    "elevation_gain": 48.0,
+    "id": "19649321999",
+    "moving_time": 1728.0,
+    "name": "Morning uRun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-08T07:12:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
