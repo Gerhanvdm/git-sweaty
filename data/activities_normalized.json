@@ -7187,5 +7187,18 @@
     "start_date_local": "2026-08-10T14:40:23Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19698426617",
+    "moving_time": 3457.0,
+    "name": "Legs and Ergs",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-11T17:25:18Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
