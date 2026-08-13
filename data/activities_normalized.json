@@ -7200,5 +7200,18 @@
     "start_date_local": "2026-08-11T17:25:18Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19712951761",
+    "moving_time": 3711.0,
+    "name": "Arms, ergs, and runs",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-12T16:48:08Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
