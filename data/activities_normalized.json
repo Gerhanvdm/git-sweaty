@@ -7226,5 +7226,18 @@
     "start_date_local": "2026-08-15T07:07:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 9403.3,
+    "elevation_gain": 0.0,
+    "id": "19765762279",
+    "moving_time": 4293.0,
+    "name": "Hyrox - 1:03:13",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-16T13:00:05Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
