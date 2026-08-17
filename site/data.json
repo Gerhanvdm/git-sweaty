@@ -5007,10 +5007,19 @@
     {
       "date": "2026-08-16",
       "hour": 13,
-      "name": "Hyrox - 1:03:13",
+      "name": "Hyrox - Cape Town - 1:04:13",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/19765762279",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-16",
+      "hour": 13,
+      "name": "HYROX - Cape Town - 01:04:13",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19775733927",
       "year": 2026
     }
   ],
@@ -8904,12 +8913,13 @@
         },
         "2026-08-16": {
           "activity_ids": [
-            "19765762279"
+            "19765762279",
+            "19775733927"
           ],
-          "count": 1,
-          "distance": 9403.3,
+          "count": 2,
+          "distance": 18103.3,
           "elevation_gain": 0.0,
-          "moving_time": 4293.0
+          "moving_time": 6787.0
         }
       },
       "Walk": {
@@ -9901,7 +9911,7 @@
       }
     }
   },
-  "generated_at": "2026-08-16T15:05:25.692037+00:00",
+  "generated_at": "2026-08-17T15:07:44.707487+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",

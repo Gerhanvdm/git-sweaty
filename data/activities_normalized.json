@@ -7233,10 +7233,23 @@
     "elevation_gain": 0.0,
     "id": "19765762279",
     "moving_time": 4293.0,
-    "name": "Hyrox - 1:03:13",
+    "name": "Hyrox - Cape Town - 1:04:13",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-08-16T13:00:05Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 8700.0,
+    "elevation_gain": 0.0,
+    "id": "19775733927",
+    "moving_time": 2494.0,
+    "name": "HYROX - Cape Town - 01:04:13",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-16T13:00:00Z",
     "type": "Run",
     "year": 2026
   }
