@@ -7252,5 +7252,44 @@
     "start_date_local": "2026-08-16T13:00:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19796105600",
+    "moving_time": 3604.0,
+    "name": "Zone 2",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-18T17:10:03Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19796605818",
+    "moving_time": 1802.0,
+    "name": "Body weight Strength",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-18T18:14:00Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 1105.6,
+    "elevation_gain": 25.0,
+    "id": "19807964860",
+    "moving_time": 289.0,
+    "name": "Test Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-19T13:59:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
