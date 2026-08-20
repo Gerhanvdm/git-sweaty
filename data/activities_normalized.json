@@ -7291,5 +7291,18 @@
     "start_date_local": "2026-08-19T13:59:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19810592359",
+    "moving_time": 3601.0,
+    "name": "Heavy Push Day & 2km row",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-19T16:32:40Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
