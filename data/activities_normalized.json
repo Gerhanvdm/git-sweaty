@@ -7317,5 +7317,57 @@
     "start_date_local": "2026-08-20T16:09:29Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19838772219",
+    "moving_time": 2742.0,
+    "name": "Pullin",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-21T16:41:46Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 3426.0,
+    "elevation_gain": 0.0,
+    "id": "19840138006",
+    "moving_time": 5297.0,
+    "name": "Evening Padel",
+    "raw_activity_type": "Workout",
+    "raw_type": "Padel",
+    "start_date_local": "2026-08-21T18:01:14Z",
+    "type": "Padel",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 5035.7,
+    "elevation_gain": 45.0,
+    "id": "19845220107",
+    "moving_time": 1617.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-22T07:09:16Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19850748101",
+    "moving_time": 4027.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-22T14:19:41Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
