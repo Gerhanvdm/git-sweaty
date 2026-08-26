@@ -5111,6 +5111,33 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19880694212",
       "year": 2026
+    },
+    {
+      "date": "2026-08-25",
+      "hour": 18,
+      "name": "Pullin up",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19896662906",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-26",
+      "hour": 7,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19903399109",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-26",
+      "hour": 8,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19903533405",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9037,6 +9064,15 @@
           "distance": 5035.7,
           "elevation_gain": 45.0,
           "moving_time": 1617.0
+        },
+        "2026-08-26": {
+          "activity_ids": [
+            "19903399109"
+          ],
+          "count": 1,
+          "distance": 5057.0,
+          "elevation_gain": 46.0,
+          "moving_time": 1413.0
         }
       },
       "Walk": {
@@ -9120,6 +9156,15 @@
           "distance": 1294.4,
           "elevation_gain": 23.6,
           "moving_time": 870.0
+        },
+        "2026-08-26": {
+          "activity_ids": [
+            "19903533405"
+          ],
+          "count": 1,
+          "distance": 1000.9,
+          "elevation_gain": 22.0,
+          "moving_time": 679.0
         }
       },
       "WeightTraining": {
@@ -9995,6 +10040,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5924.0
+        },
+        "2026-08-25": {
+          "activity_ids": [
+            "19896662906"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3692.0
         }
       },
       "Workout": {
@@ -10091,7 +10145,7 @@
       }
     }
   },
-  "generated_at": "2026-08-25T15:17:55.934978+00:00",
+  "generated_at": "2026-08-26T15:48:19.650165+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
