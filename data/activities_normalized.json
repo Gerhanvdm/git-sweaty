@@ -7441,11 +7441,37 @@
     "elevation_gain": 15.0,
     "id": "19939544862",
     "moving_time": 980.0,
-    "name": "Evening Run",
+    "name": "Mall run Maze run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-08-28T20:18:30Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19941030224",
+    "moving_time": 5687.0,
+    "name": "Night Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-28T22:17:33Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19946793440",
+    "moving_time": 3610.0,
+    "name": "Leg \ud83e\uddbf",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-29T11:22:08Z",
+    "type": "WeightTraining",
     "year": 2026
   }
 ]
