@@ -7473,5 +7473,18 @@
     "start_date_local": "2026-08-29T11:22:08Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 10000.0,
+    "elevation_gain": 0.0,
+    "id": "19961539226",
+    "moving_time": 2667.0,
+    "name": "Lunch Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-08-30T11:57:12Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]

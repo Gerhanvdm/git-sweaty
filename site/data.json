@@ -5174,6 +5174,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19946793440",
       "year": 2026
+    },
+    {
+      "date": "2026-08-30",
+      "hour": 11,
+      "name": "Lunch Row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/19961539226",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8488,6 +8497,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 505.0
+        },
+        "2026-08-30": {
+          "activity_ids": [
+            "19961539226"
+          ],
+          "count": 1,
+          "distance": 10000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2667.0
         }
       },
       "Run": {
@@ -10217,7 +10235,7 @@
       }
     }
   },
-  "generated_at": "2026-08-29T15:09:15.971297+00:00",
+  "generated_at": "2026-08-30T15:09:30.009242+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
