@@ -7486,5 +7486,18 @@
     "start_date_local": "2026-08-30T11:57:12Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19977964317",
+    "moving_time": 3978.0,
+    "name": "Uppers into ski/bike",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-31T17:13:56Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
