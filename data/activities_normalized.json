@@ -7538,5 +7538,18 @@
     "start_date_local": "2026-09-03T18:09:59Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20035559236",
+    "moving_time": 2419.0,
+    "name": "Kinda legs",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-04T17:46:53Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
