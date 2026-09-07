@@ -7564,5 +7564,31 @@
     "start_date_local": "2026-09-06T09:40:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20072256604",
+    "moving_time": 3394.0,
+    "name": "Lunch Main - Gym",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-07T12:45:05Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20072374760",
+    "moving_time": 440.0,
+    "name": "Lunch Dessert Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-09-07T13:43:01Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
