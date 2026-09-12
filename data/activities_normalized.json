@@ -7668,5 +7668,31 @@
     "start_date_local": "2026-09-11T15:26:47Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20131400704",
+    "moving_time": 3636.0,
+    "name": "Easy Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-11T16:11:39Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 9045.5,
+    "elevation_gain": 95.0,
+    "id": "20141889919",
+    "moving_time": 2616.0,
+    "name": "No Gun, So Sun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-12T12:15:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
