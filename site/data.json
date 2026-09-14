@@ -5327,6 +5327,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20141889919",
       "year": 2026
+    },
+    {
+      "date": "2026-09-14",
+      "hour": 6,
+      "name": "Morning Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/20166050215",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9338,6 +9347,17 @@
           "moving_time": 2616.0
         }
       },
+      "Swim": {
+        "2026-09-14": {
+          "activity_ids": [
+            "20166050215"
+          ],
+          "count": 1,
+          "distance": 525.0,
+          "elevation_gain": 0.0,
+          "moving_time": 546.0
+        }
+      },
       "Walk": {
         "2026-01-15": {
           "activity_ids": [
@@ -10525,7 +10545,7 @@
       }
     }
   },
-  "generated_at": "2026-09-13T15:09:27.772309+00:00",
+  "generated_at": "2026-09-14T15:12:29.479728+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
@@ -10572,6 +10592,10 @@
       "accent": "#01cdfe",
       "label": "Run"
     },
+    "Swim": {
+      "accent": "#3a86ff",
+      "label": "Swim"
+    },
     "Walk": {
       "accent": "#d6ff6b",
       "label": "Walk"
@@ -10594,6 +10618,7 @@
     "RockClimbing",
     "Rowing",
     "Run",
+    "Swim",
     "Walk",
     "WeightTraining",
     "Workout",

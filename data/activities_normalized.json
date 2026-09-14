@@ -7694,5 +7694,18 @@
     "start_date_local": "2026-09-12T12:15:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-14",
+    "distance": 525.0,
+    "elevation_gain": 0.0,
+    "id": "20166050215",
+    "moving_time": 546.0,
+    "name": "Morning Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-14T06:16:43Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
