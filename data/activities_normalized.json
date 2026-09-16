@@ -7707,5 +7707,44 @@
     "start_date_local": "2026-09-14T06:16:43Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-09-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20187438426",
+    "moving_time": 3650.0,
+    "name": "How low can you go?",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-15T17:29:09Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 11582.1,
+    "elevation_gain": 159.0,
+    "id": "20198632967",
+    "moving_time": 3766.0,
+    "name": "Cruising - Kings hwy out and back",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-16T12:43:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 1003.3,
+    "elevation_gain": 24.0,
+    "id": "20198893214",
+    "moving_time": 724.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-16T13:54:24Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
