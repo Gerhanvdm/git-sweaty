@@ -7746,5 +7746,18 @@
     "start_date_local": "2026-09-16T13:54:24Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20201495270",
+    "moving_time": 3001.0,
+    "name": "Arma",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-16T16:54:41Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
