@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:10:49.688704+00:00",
+  "generated_at": "2026-09-19T15:09:34.740217+00:00",
   "years": {
     "2018": {
       "Run": {
@@ -3263,6 +3263,15 @@
           "distance": 3426.0,
           "elevation_gain": 0.0,
           "moving_time": 5297.0
+        },
+        "2026-09-18": {
+          "activity_ids": [
+            "20231045331"
+          ],
+          "count": 1,
+          "distance": 3001.6,
+          "elevation_gain": 0.0,
+          "moving_time": 4689.0
         }
       },
       "Racquetball": {
@@ -4025,6 +4034,15 @@
           "distance": 11582.1,
           "elevation_gain": 159.0,
           "moving_time": 3766.0
+        },
+        "2026-09-19": {
+          "activity_ids": [
+            "20235198871"
+          ],
+          "count": 1,
+          "distance": 5028.5,
+          "elevation_gain": 49.0,
+          "moving_time": 1689.0
         }
       },
       "Swim": {
@@ -4044,7 +4062,7 @@
           "count": 1,
           "distance": 1025.0,
           "elevation_gain": 0.0,
-          "moving_time": 1097.0
+          "moving_time": 1096.0
         }
       },
       "Walk": {

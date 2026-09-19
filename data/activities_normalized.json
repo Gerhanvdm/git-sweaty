@@ -7791,12 +7791,38 @@
     "distance": 1025.0,
     "elevation_gain": 0.0,
     "id": "20228310887",
-    "moving_time": 1097.0,
-    "name": "Afternoon Swim",
+    "moving_time": 1096.0,
+    "name": "Swim Swam",
     "raw_activity_type": "Swim",
     "raw_type": "Swim",
     "start_date_local": "2026-09-18T16:28:43Z",
     "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-18",
+    "distance": 3001.6,
+    "elevation_gain": 0.0,
+    "id": "20231045331",
+    "moving_time": 4689.0,
+    "name": "Evening Padel",
+    "raw_activity_type": "Workout",
+    "raw_type": "Padel",
+    "start_date_local": "2026-09-18T19:23:47Z",
+    "type": "Padel",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 5028.5,
+    "elevation_gain": 49.0,
+    "id": "20235198871",
+    "moving_time": 1689.0,
+    "name": "Easy uRun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-19T07:06:22Z",
+    "type": "Run",
     "year": 2026
   }
 ]
