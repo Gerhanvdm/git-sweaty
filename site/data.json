@@ -5417,6 +5417,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20235198871",
       "year": 2026
+    },
+    {
+      "date": "2026-09-20",
+      "hour": 7,
+      "name": "Brooks CC - 15km",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20249589488",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9462,6 +9471,15 @@
           "distance": 5028.5,
           "elevation_gain": 49.0,
           "moving_time": 1689.0
+        },
+        "2026-09-20": {
+          "activity_ids": [
+            "20249589488"
+          ],
+          "count": 1,
+          "distance": 15068.1,
+          "elevation_gain": 204.0,
+          "moving_time": 4817.0
         }
       },
       "Swim": {
@@ -10707,7 +10725,7 @@
       }
     }
   },
-  "generated_at": "2026-09-19T15:09:34.752296+00:00",
+  "generated_at": "2026-09-20T15:09:45.133309+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
