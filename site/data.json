@@ -5489,6 +5489,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20349873462",
       "year": 2026
+    },
+    {
+      "date": "2026-09-28",
+      "hour": 17,
+      "name": "Willow Way",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20366604457",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10746,6 +10755,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2487.0
+        },
+        "2026-09-28": {
+          "activity_ids": [
+            "20366604457"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3303.0
         }
       },
       "Workout": {
@@ -10851,7 +10869,7 @@
       }
     }
   },
-  "generated_at": "2026-09-27T18:54:20.953556+00:00",
+  "generated_at": "2026-09-28T21:04:34.956551+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",

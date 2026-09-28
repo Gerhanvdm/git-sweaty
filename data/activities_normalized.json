@@ -7928,5 +7928,18 @@
     "start_date_local": "2026-09-27T12:40:20Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20366604457",
+    "moving_time": 3303.0,
+    "name": "Willow Way",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-28T17:33:31Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
