@@ -5498,6 +5498,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20366604457",
       "year": 2026
+    },
+    {
+      "date": "2026-09-29",
+      "hour": 11,
+      "name": "Lunch Row - 10km",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/20375730771",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-29",
+      "hour": 16,
+      "name": "Chest & Back",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20379453214",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8877,6 +8895,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 499.0
+        },
+        "2026-09-29": {
+          "activity_ids": [
+            "20375730771"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2618.0
         }
       },
       "Run": {
@@ -10764,6 +10791,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3303.0
+        },
+        "2026-09-29": {
+          "activity_ids": [
+            "20379453214"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2778.0
         }
       },
       "Workout": {
@@ -10869,7 +10905,7 @@
       }
     }
   },
-  "generated_at": "2026-09-28T21:04:34.956551+00:00",
+  "generated_at": "2026-09-29T19:47:32.965566+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
