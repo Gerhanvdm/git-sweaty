@@ -5583,7 +5583,7 @@
     {
       "date": "2026-10-10",
       "hour": 15,
-      "name": "Afternoon Swim",
+      "name": "Swimm",
       "subtype": "Swim",
       "type": "Swim",
       "url": "https://www.strava.com/activities/20529318494",
@@ -11049,7 +11049,7 @@
       }
     }
   },
-  "generated_at": "2026-10-10T15:11:05.254393+00:00",
+  "generated_at": "2026-10-11T15:10:27.554073+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
