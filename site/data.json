@@ -5628,7 +5628,7 @@
     {
       "date": "2026-10-15",
       "hour": 16,
-      "name": "Afternoon Weight Training",
+      "name": "Weights and some tilted ski",
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20596595237",
@@ -11139,7 +11139,7 @@
       }
     }
   },
-  "generated_at": "2026-10-15T15:11:38.679001+00:00",
+  "generated_at": "2026-10-16T15:10:35.329130+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
