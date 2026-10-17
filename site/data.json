@@ -5633,6 +5633,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20596595237",
       "year": 2026
+    },
+    {
+      "date": "2026-10-16",
+      "hour": 16,
+      "name": "Afternoon Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/20610259408",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9797,6 +9806,15 @@
           "distance": 1000.0,
           "elevation_gain": 0.0,
           "moving_time": 1114.0
+        },
+        "2026-10-16": {
+          "activity_ids": [
+            "20610259408"
+          ],
+          "count": 1,
+          "distance": 2300.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2955.0
         }
       },
       "Walk": {
@@ -11139,7 +11157,7 @@
       }
     }
   },
-  "generated_at": "2026-10-16T15:10:35.329130+00:00",
+  "generated_at": "2026-10-17T15:09:04.491756+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
