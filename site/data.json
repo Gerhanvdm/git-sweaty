@@ -5678,6 +5678,33 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20675760258",
       "year": 2026
+    },
+    {
+      "date": "2026-10-23",
+      "hour": 16,
+      "name": "Afternoon Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/20701972375",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-24",
+      "hour": 11,
+      "name": "Chest and Arms for lunch",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20710210443",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-24",
+      "hour": 12,
+      "name": "Ride sesh for dessert",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20710697068",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9010,6 +9037,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1811.0
+        },
+        "2026-10-24": {
+          "activity_ids": [
+            "20710697068"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1832.0
         }
       },
       "Rowing": {
@@ -9869,6 +9905,15 @@
           "distance": 1275.0,
           "elevation_gain": 0.0,
           "moving_time": 2143.0
+        },
+        "2026-10-23": {
+          "activity_ids": [
+            "20701972375"
+          ],
+          "count": 1,
+          "distance": 2075.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2788.0
         }
       },
       "Walk": {
@@ -11124,6 +11169,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3309.0
+        },
+        "2026-10-24": {
+          "activity_ids": [
+            "20710210443"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2122.0
         }
       },
       "Workout": {
@@ -11229,7 +11283,7 @@
       }
     }
   },
-  "generated_at": "2026-10-23T15:10:29.280676+00:00",
+  "generated_at": "2026-10-24T15:09:27.552635+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",

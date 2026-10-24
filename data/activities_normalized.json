@@ -8201,5 +8201,44 @@
     "start_date_local": "2026-10-21T16:00:47Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-23",
+    "distance": 2075.0,
+    "elevation_gain": 0.0,
+    "id": "20701972375",
+    "moving_time": 2788.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-10-23T16:32:34Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20710210443",
+    "moving_time": 2122.0,
+    "name": "Chest and Arms for lunch",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-24T11:24:45Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20710697068",
+    "moving_time": 1832.0,
+    "name": "Ride sesh for dessert",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-24T12:03:34Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
