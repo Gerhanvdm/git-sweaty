@@ -5714,6 +5714,33 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20723689704",
       "year": 2026
+    },
+    {
+      "date": "2026-10-26",
+      "hour": 13,
+      "name": "Rehab",
+      "subtype": "PhysicalTherapy",
+      "type": "PhysicalTherapy",
+      "url": "https://www.strava.com/activities/20736338929",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-26",
+      "hour": 16,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20738330647",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-26",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20738515029",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8990,6 +9017,17 @@
           "moving_time": 4689.0
         }
       },
+      "PhysicalTherapy": {
+        "2026-10-26": {
+          "activity_ids": [
+            "20736338929"
+          ],
+          "count": 1,
+          "distance": 594.3,
+          "elevation_gain": 7.0,
+          "moving_time": 1016.0
+        }
+      },
       "Racquetball": {
         "2026-01-24": {
           "activity_ids": [
@@ -9055,6 +9093,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1832.0
+        },
+        "2026-10-26": {
+          "activity_ids": [
+            "20738515029"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 961.0
         }
       },
       "Rowing": {
@@ -11196,6 +11243,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2033.0
+        },
+        "2026-10-26": {
+          "activity_ids": [
+            "20738330647"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2804.0
         }
       },
       "Workout": {
@@ -11301,7 +11357,7 @@
       }
     }
   },
-  "generated_at": "2026-10-25T15:09:38.185963+00:00",
+  "generated_at": "2026-10-26T15:31:23.491153+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
@@ -11323,6 +11379,10 @@
     "Padel": {
       "accent": "#ffbe0b",
       "label": "Padel"
+    },
+    "PhysicalTherapy": {
+      "accent": "#9b5de5",
+      "label": "Physical Therapy"
     },
     "Pickleball": {
       "accent": "#00f5d4",
@@ -11379,7 +11439,8 @@
     "WeightTraining",
     "Workout",
     "Padel",
-    "Dance"
+    "Dance",
+    "PhysicalTherapy"
   ],
   "units": {
     "distance": "km",

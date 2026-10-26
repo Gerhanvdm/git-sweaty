@@ -8253,5 +8253,44 @@
     "start_date_local": "2026-10-25T12:24:33Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 594.3,
+    "elevation_gain": 7.0,
+    "id": "20736338929",
+    "moving_time": 1016.0,
+    "name": "Rehab",
+    "raw_activity_type": "Workout",
+    "raw_type": "PhysicalTherapy",
+    "start_date_local": "2026-10-26T13:14:59Z",
+    "type": "PhysicalTherapy",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20738330647",
+    "moving_time": 2804.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-26T16:14:17Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20738515029",
+    "moving_time": 961.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-26T17:02:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
