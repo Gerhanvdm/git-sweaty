@@ -5741,6 +5741,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20738515029",
       "year": 2026
+    },
+    {
+      "date": "2026-10-27",
+      "hour": 16,
+      "name": "Afternoon Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/20752199836",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-28",
+      "hour": 12,
+      "name": "Sit en trap",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20763577982",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9102,6 +9120,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 961.0
+        },
+        "2026-10-28": {
+          "activity_ids": [
+            "20763577982"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3689.0
         }
       },
       "Rowing": {
@@ -9970,6 +9997,15 @@
           "distance": 2075.0,
           "elevation_gain": 0.0,
           "moving_time": 2788.0
+        },
+        "2026-10-27": {
+          "activity_ids": [
+            "20752199836"
+          ],
+          "count": 1,
+          "distance": 1000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1202.0
         }
       },
       "Walk": {
@@ -11357,7 +11393,7 @@
       }
     }
   },
-  "generated_at": "2026-10-27T15:12:48.333142+00:00",
+  "generated_at": "2026-10-28T15:08:38.338666+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",

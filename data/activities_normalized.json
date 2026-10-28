@@ -8292,5 +8292,31 @@
     "start_date_local": "2026-10-26T17:02:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "20752199836",
+    "moving_time": 1202.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-10-27T16:34:44Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20763577982",
+    "moving_time": 3689.0,
+    "name": "Sit en trap",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-28T12:33:58Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
