@@ -5759,6 +5759,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20763577982",
       "year": 2026
+    },
+    {
+      "date": "2026-10-28",
+      "hour": 16,
+      "name": "Besto Chesto en arms",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20766604722",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-29",
+      "hour": 12,
+      "name": "Lunch Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/20777073158",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11288,6 +11306,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2804.0
+        },
+        "2026-10-28": {
+          "activity_ids": [
+            "20766604722"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3100.0
         }
       },
       "Workout": {
@@ -11389,11 +11416,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5687.0
+        },
+        "2026-10-29": {
+          "activity_ids": [
+            "20777073158"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2700.0
         }
       }
     }
   },
-  "generated_at": "2026-10-28T15:08:38.338666+00:00",
+  "generated_at": "2026-10-29T15:08:48.183970+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
