@@ -8344,5 +8344,44 @@
     "start_date_local": "2026-10-29T12:54:40Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "20792236833",
+    "moving_time": 1185.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-10-30T16:34:29Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20795643533",
+    "moving_time": 12580.0,
+    "name": "Evening Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-10-30T19:24:29Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 10119.9,
+    "elevation_gain": 166.0,
+    "id": "20799426883",
+    "moving_time": 3049.0,
+    "name": "Versus Grand Prix 10k",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-31T08:45:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
