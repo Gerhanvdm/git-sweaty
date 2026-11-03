@@ -8396,5 +8396,44 @@
     "start_date_local": "2026-11-02T13:02:14Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-11-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20830201341",
+    "moving_time": 3106.0,
+    "name": "Uppera tut",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-02T16:12:10Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20830318866",
+    "moving_time": 317.0,
+    "name": "Skiski",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-02T17:09:04Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20841018711",
+    "moving_time": 3696.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-03T12:24:21Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
