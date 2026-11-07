@@ -8461,5 +8461,18 @@
     "start_date_local": "2026-11-04T10:44:52Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 6133.7,
+    "elevation_gain": 67.0,
+    "id": "20890419426",
+    "moving_time": 2045.0,
+    "name": "Chillin easy",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-07T07:40:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
