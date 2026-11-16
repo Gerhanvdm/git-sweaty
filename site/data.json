@@ -5930,6 +5930,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20994258674",
       "year": 2026
+    },
+    {
+      "date": "2026-11-16",
+      "hour": 12,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/21007121148",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-16",
+      "hour": 12,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21007121201",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -10112,6 +10130,15 @@
           "distance": 6133.7,
           "elevation_gain": 67.0,
           "moving_time": 2045.0
+        },
+        "2026-11-16": {
+          "activity_ids": [
+            "21007121201"
+          ],
+          "count": 1,
+          "distance": 8053.4,
+          "elevation_gain": 65.0,
+          "moving_time": 2683.0
         }
       },
       "Swim": {
@@ -10332,6 +10359,15 @@
           "distance": 1003.3,
           "elevation_gain": 24.0,
           "moving_time": 724.0
+        },
+        "2026-11-16": {
+          "activity_ids": [
+            "21007121148"
+          ],
+          "count": 1,
+          "distance": 1041.4,
+          "elevation_gain": 21.0,
+          "moving_time": 653.0
         }
       },
       "WeightTraining": {
@@ -11727,7 +11763,7 @@
       }
     }
   },
-  "generated_at": "2026-11-15T15:06:11.491391+00:00",
+  "generated_at": "2026-11-16T15:08:59.507681+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
