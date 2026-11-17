@@ -8591,5 +8591,31 @@
     "start_date_local": "2026-11-16T12:08:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21010581948",
+    "moving_time": 2417.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-16T17:59:56Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21021957037",
+    "moving_time": 2403.0,
+    "name": "Back Bis Ski",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-17T15:42:46Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
