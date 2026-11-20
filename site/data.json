@@ -5993,6 +5993,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/21047087702",
       "year": 2026
+    },
+    {
+      "date": "2026-11-19",
+      "hour": 17,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/21048367952",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11711,6 +11720,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3142.0
+        },
+        "2026-11-19": {
+          "activity_ids": [
+            "21048367952"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2734.0
         }
       },
       "Workout": {
@@ -11853,7 +11871,7 @@
       }
     }
   },
-  "generated_at": "2026-11-19T15:07:32.462710+00:00",
+  "generated_at": "2026-11-20T15:07:32.876669+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/29944105",
   "repo": "Gerhanvdm/git-sweaty",
