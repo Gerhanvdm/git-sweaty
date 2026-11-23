@@ -8695,5 +8695,18 @@
     "start_date_local": "2026-11-22T11:48:12Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-23",
+    "distance": 6026.3,
+    "elevation_gain": 66.0,
+    "id": "21093015643",
+    "moving_time": 1876.0,
+    "name": "Easy park loops",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-23T12:14:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
